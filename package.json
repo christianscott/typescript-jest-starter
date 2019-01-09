@@ -1,0 +1,8 @@
+{
+  "name": "typescript-jest-starter",
+  "version": "0.0.1",
+  "description": "Boilerplate for Typescript + Jest + Node.js",
+  "main": "src/index.ts",
+  "repository": "https://github.com/chrfrasco/typescript-jest-starter",
+  "license": "MIT"
+}
